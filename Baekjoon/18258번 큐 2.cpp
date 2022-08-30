@@ -5,6 +5,9 @@ int queue[2000000] = { 0, };
 
 int main(void)
 {
+	ios_base::sync_with_stdio(0);
+	cin.tie(0);
+
 	int count = 0;
 	string command = "";
 
@@ -28,36 +31,36 @@ int main(void)
 		{
 			if (front >= rear)
 			{
-				cout << queue[rear] << endl;
+				cout << queue[rear] << "\n";
 				rear++;
 			}
 			else
-				cout << -1 << endl;
+				cout << -1 << "\n";
 		}
 		else if (command == "size")
 		{
-			cout << (front + 1) - rear << endl;
+			cout << (front + 1) - rear << "\n";
 		}
 		else if (command == "empty")
 		{
 			if (front >= rear)
-				cout << 0 << endl;
+				cout << 0 << "\n";
 			else
-				cout << 1 << endl;
+				cout << 1 << "\n";
 		}
 		else if (command == "front")
 		{
 			if (front >= rear)
-				cout << queue[rear] << endl;
+				cout << queue[rear] << "\n";
 			else
-				cout << -1 << endl;
+				cout << -1 << "\n";
 		}
 		else if (command == "back")
 		{
 			if (front >= rear)
-				cout << queue[front] << endl;
+				cout << queue[front] << "\n";
 			else
-				cout << -1 << endl;
+				cout << -1 << "\n";
 		}
 	}
 

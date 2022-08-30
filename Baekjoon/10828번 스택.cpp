@@ -21,30 +21,30 @@ int main(void)
 		else if (str == "pop")
 		{
 			if (count == -1)
-				cout << -1 << endl;
+				cout << -1 << "\n";
 			else
 			{
-				cout << stack[count] << endl;
+				cout << stack[count] << "\n";
 				count--;
 			}
 		}
 		else if (str == "size")
 		{
-			cout << count+1 << endl;
+			cout << count+1 << "\n";
 		}
 		else if (str == "empty")
 		{
 			if (count == -1)
-				cout << 1 << endl;
+				cout << 1 << "\n";
 			else
-				cout << 0 << endl;
+				cout << 0 << "\n";
 		}
 		else if (str == "top")
 		{
 			if (count == -1)
-				cout << -1 << endl;
+				cout << -1 << "\n";
 			else
-				cout << stack[count] << endl;
+				cout << stack[count] << "\n";
 		}
 	}
 }
