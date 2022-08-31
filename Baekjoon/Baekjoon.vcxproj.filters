@@ -39,5 +39,11 @@
     <ClCompile Include="1935번 후위표기식2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10799번 쇠막대기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1966번 프린터 큐.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
