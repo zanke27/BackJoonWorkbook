@@ -13,37 +13,133 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Solved.ac">
+      <UniqueIdentifier>{8884270e-02a1-4250-9db5-724bedf06cc2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Solved.ac\Class1">
+      <UniqueIdentifier>{442060e4-6c15-42d5-b596-b6c60725254b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Solved.ac\WorkBook">
+      <UniqueIdentifier>{dbc6f6b0-995c-47c0-8102-0bfd5beac5b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Solved.ac\WorkBook\DataStructure">
+      <UniqueIdentifier>{fbaa7126-c32c-434e-a267-fcd5484c3f83}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10828번 스택.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1000번 A+B.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
     </ClCompile>
-    <ClCompile Include="9012번 괄호.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1001번 A-B.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
     </ClCompile>
-    <ClCompile Include="18258번 큐 2.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="1008번 A나누기B.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1152번 단어의 개수.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1157번 단어 공부.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1330번 두 수 비교하기.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1546번 평균.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2438번 별 찍기 1.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2439번 별 찍기 2.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2475번 검증수.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2557번 Hello World.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2562번 최댓값.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2577번 숫자의 개수.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2675번 문자열 반복.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2739번 구구단.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2741번 N 찍기.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2742번 기찍 N.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="2753번 윤년.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
     </ClCompile>
     <ClCompile Include="1158번 요세푸스 문제.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="2164번 카드2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10866번 덱.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="1874번 스택 수열 %28미해결%29.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="1935번 후위표기식2.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="10799번 쇠막대기.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
     </ClCompile>
     <ClCompile Include="1966번 프린터 큐.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2164번 카드2.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2346번 풍선 터뜨리기%28미해결%29.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="9012번 괄호.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="10799번 쇠막대기.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="10828번 스택.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="10866번 덱.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="18258번 큐 2.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="2920번 음계.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="8985번 OX퀴즈.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10818번 최소, 최대.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10869번 사칙연산.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10950번 A+B -3.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10951번 A+B -4.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="10952번 A+B -5.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="11854번 아스키 코드.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="11720번 숫자의 합.cpp">
+      <Filter>소스 파일\Solved.ac\Class1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
