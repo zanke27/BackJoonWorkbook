@@ -25,6 +25,18 @@
     <Filter Include="소스 파일\Solved.ac\WorkBook\DataStructure">
       <UniqueIdentifier>{fbaa7126-c32c-434e-a267-fcd5484c3f83}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Solved.ac\Class2">
+      <UniqueIdentifier>{fa2cac57-cc21-44ef-8484-dbc52cb59476}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Solved.ac\Class3">
+      <UniqueIdentifier>{c1b0989c-f852-42d9-8c2b-b3525cca6a46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별로풀기">
+      <UniqueIdentifier>{4e9c47fa-a27c-4e69-a626-a6a235af03ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단계별로풀기\재귀">
+      <UniqueIdentifier>{e8ada894-7b8d-4524-b5da-b010fdbd88f2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1000번 A+B.cpp">
@@ -140,6 +152,63 @@
     </ClCompile>
     <ClCompile Include="11720번 숫자의 합.cpp">
       <Filter>소스 파일\Solved.ac\Class1</Filter>
+    </ClCompile>
+    <ClCompile Include="1085번 직사각형에서 탈출.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="4153번 직각삼각형.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="2231번 분해합.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="2292번 벌집.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="16928번 뱀과 사다리 게임%28미완%29.cpp">
+      <Filter>소스 파일\Solved.ac\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1602번 나는야 포켓몬 마스터 이다솜.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1302번 베스트셀러.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1316번 그룹 단어 체커.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1764번 듣보잡.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="10815번 숫자 카드.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="7576번 토마토.cpp">
+      <Filter>소스 파일\Solved.ac\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="1072번 게임.cpp">
+      <Filter>소스 파일\Solved.ac\WorkBook\DataStructure</Filter>
+    </ClCompile>
+    <ClCompile Include="1003번 피보나치 함수.cpp">
+      <Filter>소스 파일\Solved.ac\Class3</Filter>
+    </ClCompile>
+    <ClCompile Include="10872번 팩토리얼.cpp">
+      <Filter>소스 파일\단계별로풀기\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="10870번 피보나치 수 5.cpp">
+      <Filter>소스 파일\단계별로풀기\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="25501번 재귀의 귀재.cpp">
+      <Filter>소스 파일\단계별로풀기\재귀</Filter>
+    </ClCompile>
+    <ClCompile Include="팰린드롬수 .cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="소수 찾기.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
+    </ClCompile>
+    <ClCompile Include="블랙잭.cpp">
+      <Filter>소스 파일\Solved.ac\Class2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
